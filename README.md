@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jjmaturino
-- 👀 I’m interested in edtech, blockchain, mathematics, and EcoCart🌎
+- 👀 I’m interested in edtech, blockchain, mathematics, and Edua
 - 🌱 I’m currently learning about cardano, ada, haskell, and plutus
 - 💞️ I’m looking to collaborate on open source dApps
 - 📫 How to reach me juanmaturino@edua.dev
